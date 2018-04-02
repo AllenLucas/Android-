@@ -2,9 +2,10 @@
 
 ---
 
-#Bitmap
 
+## Bitmap
  1. [自适应图标AdaptiveIconDrawable转Bitmap][1]
+## 权限
  2. [Android6.0的权限管理][2]
 
 
